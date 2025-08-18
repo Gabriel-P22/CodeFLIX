@@ -1,6 +1,6 @@
 package application;
 
-import com.fullcycle.admin.catalogo.application.UseCase;
+import com.fullcycle.admin.catalogo.application.category.UseCase;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertNotNull;

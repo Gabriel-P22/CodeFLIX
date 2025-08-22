@@ -11,7 +11,7 @@ import static org.junit.jupiter.api.Assertions.assertNull;
 public class CategoryTest {
 
     @Test
-    public void givenAValidParams_whenCallNewCategory_thenInstanciateACAtegory() {
+    public void givenAValidParams_whenCallNewCategory_thenInstantiateACategory() {
         final String expectedName = "filmes";
         final String expectedDescription = "A Categoria mais assistida";
         final boolean expectedIsActive = true;

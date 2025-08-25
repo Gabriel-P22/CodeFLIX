@@ -16,5 +16,4 @@ public interface CategoryGateway {
 
     Category update(Category aCategory);
 
-
 }
